@@ -1,5 +1,5 @@
-<!-- TÍTULO -->
-<h1 align="center">👋 Hola, soy <strong>JuanCarvajal28</strong></h1>
+<!-- TITLE -->
+<h1 align="center">👋 Hi, I'm <strong>JuanCarvajal28</strong></h1>
 
 <!-- BANNER -->
 <p align="center">
@@ -8,70 +8,70 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
-Actual estudiante de **Ingeniería de Sistemas** e **Ingeniería Multimedia**.<br>
-Apasionado por el desarrollo de software, el diseño interactivo y la construcción de proyectos reales.<br>
-**Desarrollador en progreso** 🚀, aprendiendo cada día y fortaleciendo mis habilidades técnicas.
+I am currently a student of **Systems Engineering** and **Multimedia Engineering**.<br>
+Passionate about software development, interactive design, and building real-world projects.<br>
+A **Developer in Progress** 🚀, constantly learning and improving my technical skills.
 
-Algunas cosas sobre mí:
-- Me gusta crear **proyectos completos**, desde backend hasta frontend.
-- Manejo lenguajes como **Python, Java, HTML, CSS** y un poco de **JavaScript**.
-- Me encanta programar cosas visuales, interactivas y con buena estética.
-- He trabajo en proyectos como:
-  - **Portafolios Web 3D**
-  - **Bitácora del Frijol**
-  - **Pet-Zen (alimentador inteligente con ESP32)**
+Some things about me:
+- I enjoy creating **full projects**, from backend to frontend.
+- I work with languages such as **Python, Java, HTML, CSS**, and some **JavaScript**.
+- I love developing visual, interactive, and aesthetically pleasing applications.
+- I have worked on projects such as:
+  - **3D Web Portfolios**
+  - **Bean Logbook (Bitácora del Frijol)**
+  - **Pet-Zen (smart feeder using ESP32)**
   - **MotoGP Data Warehouse**
-- Busco crecer profesionalmente y seguir aprendiendo todos los días.
+- I am focused on growing professionally and learning something new every day.
 
 ---
 
-# 🚀 Proyectos
+# 🚀 Projects
 
-A continuación, algunos de mis proyectos destacados:
+Here are some of my featured projects:
 
 <br>
 
-<!-- PROYECTO 1 -->
-<h2>Computación Gráfica</h2>
+<!-- PROJECT 1 -->
+<h2>Computer Graphics</h2>
 
 <a href="https://github.com/JuanCarvajal28/Computacion-Grafica-2025">
-  <img src="/assets/compu-graf.png" alt="Imagen del Proyecto 1" width="400">
+  <img src="/assets/compu-graf.png" alt="Project 1 Image" width="400">
 </a>
 
 <p>
-Curso de Computación Gráfica completo, con ejemplos de uso de ModelViewer, Three.js y herramientas audiovisuales.
+A complete Computer Graphics course with examples using ModelViewer, Three.js, and audiovisual tools.
 </p>
 
 ---
 
-<!-- PROYECTO 2 -->
-<h2>Bitácora del Frijol</h2>
+<!-- PROJECT 2 -->
+<h2>Bean Logbook</h2>
 
 <a href="https://github.com/JuanCarvajal28/bitacora_frijol">
-  <img src="/assets/bitacora.png" alt="Imagen del Proyecto 2" width="400">
+  <img src="/assets/bitacora.png" alt="Project 2 Image" width="400">
 </a>
 
 <p>
-Proyecto desarrollado en el curso de Laboratorio de Software III. Funciona como una bitácora donde se pueden 
-añadir mediciones diarias sobre el crecimiento de un frijol, permitiendo visualizar gráficas de dispersión generadas mediante un algoritmo de regresión lineal simple.  
-Este proyecto fue desarrollado utilizando el framework **Django**.
+A project developed for the Software Laboratory III course. It functions as a logbook where users can 
+record daily measurements of a bean’s growth, generating scatter plots using a simple linear regression algorithm.  
+This project was built using the **Django** framework.
 </p>
 
 ---
 
-<!-- PROYECTO 3 -->
-<h2>Portafolio Interactivo</h2>
+<!-- PROJECT 3 -->
+<h2>Interactive Portfolio</h2>
 
 <a href="https://github.com/JuanCarvajal28/portafolio">
-  <img src="/assets/portafolio.png" alt="Imagen del Proyecto 3" width="400">
+  <img src="/assets/portafolio.png" alt="Project 3 Image" width="400">
 </a>
 
 <p>
-En este portafolio encontrarás un poco más sobre mí. Es un proyecto realizado usando ModelViewer que muestra 
-una galería 3D con modelos creados por mí.  
-Su uso es exclusivamente académico.
+This portfolio showcases a bit more about me. It is a project made using ModelViewer that displays 
+a 3D gallery with models created by me.  
+It is intended for academic use only.
 </p>
 
 ---
