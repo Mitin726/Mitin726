@@ -1,7 +1,7 @@
 <!-- TITLE -->
 <h1 align="center">👋 Hi, I'm <strong>JuanCarvajal28</strong></h1>
 
-<!-- BANNER -->
+<!-- BANNER :) -->
 <p align="center">
   <img src="/assets/BannerGitHub.png" alt="Banner JuanCarvajal28" width="100%">
 </p>
