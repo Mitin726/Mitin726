@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h1 align="center">👋 Hi, I'm <strong>JuanCarvajal28</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>Mitin726</strong></h1>
 
 <!-- BANNER :) -->
 <p align="center">
