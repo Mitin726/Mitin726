@@ -31,14 +31,14 @@ Some things about me:
 Here are some of my featured projects:
 <br>
 
----
-
 <!-- PROJECT 1 -->
 <h2>Finance Bot</h2>
 
-<a href="https://github.com/Mitin726/bot-finanzas">
-  <img src="/assets/finance-bot.png" alt="Finance Bot" width="400">
-</a>
+<div align="center">
+  <a href="https://github.com/Mitin726/bot-finanzas">
+    <img src="/assets/finance-bot.png" alt="Finance Bot" width="600">
+  </a>
+</div>
 
 <p>
 I always want to keep my finances up to date, but having to go home and enter each transaction manually became tedious, and I often forgot to do it. That’s why I decided to create a personal bot that automatically logs expenses in Google Sheets based on WhatsApp messages written in natural language, and that also answers questions about past expenses.
@@ -49,9 +49,11 @@ I always want to keep my finances up to date, but having to go home and enter ea
 <!-- PROJECT 2 -->
 <h2>Julia's Fractal Generator Algorithm</h2>
 
-<a href="https://github.com/Mitin726/Julia-s-Fractal-Generator-Algorithm">
-  <img src="/assets/fractales.png" alt="Julia Fractals" width="400">
-</a>
+<div align="center">
+  <a href="https://github.com/Mitin726/Julia-s-Fractal-Generator-Algorithm">
+    <img src="/assets/fractales.png" alt="Julia Fractals" width="600">
+  </a>
+</div>
 
 <p>
 This project focuses on the generation and analysis of Julia fractals using computational algorithms implemented in Python.
@@ -62,24 +64,13 @@ The main goal of this project is to develop an algorithm capable of generating v
 ---
 
 <!-- PROJECT 3 -->
-<h2>Weather App</h2>
-
-<a href="https://github.com/Mitin726/weather-app">
-  <img src="/assets/weather-app.png" alt="Weather App" width="400">
-</a>
-
-<p>
-A simple and clean weather application built with HTML, CSS, and JavaScript that lets you search for any city and get the current weather conditions, including temperature, humidity, wind speed, and a weather icon.
-</p>
-
----
-
-<!-- PROJECT 4 -->
 <h2>Auténtico Website</h2>
 
-<a href="https://github.com/Mitin726/autentico-web">
-  <img src="/assets/autentico.png" alt="Weather App" width="400">
-</a>
+<div align="center">
+  <a href="https://github.com/Mitin726/autentico-web">
+    <img src="/assets/autentico.png" alt="Weather App" width="600">
+  </a>
+</div>
 
 <p>
 Auténtico is a pastry business founded in Calarcá, Quindío, by my mother, Luz, a professional pastry chef. The website showcases a brand focused on traditional desserts and healthier options, made with high-quality ingredients, dedication, and creativity to offer authentic flavors without compromising on well-being.
@@ -87,3 +78,20 @@ In addition to telling the story behind the project, the site lets you explore t
 </p>
 
 ---
+
+<!-- PROJECT 4 -->
+<h2>Weather App</h2>
+
+<div align="center">
+  <a href="https://github.com/Mitin726/weather-app">
+    <img src="/assets/weather-app.png" alt="Weather App" width="600">
+  </a>
+</div>
+
+<p>
+A simple and clean weather application built with HTML, CSS, and JavaScript that lets you search for any city and get the current weather conditions, including temperature, humidity, wind speed, and a weather icon.
+</p>
+
+---
+
+
