@@ -43,13 +43,10 @@ A **Developer in Progress**, constantly learning and improving my technical skil
 	
  ```
 
----
-## Programming Languages
+## Programming Languages and Technologies
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> 
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
-
---- 
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width='30'/> <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width='30'/> <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width='30'/> <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width='30'/>
 
 ## Projects
 
@@ -128,11 +125,9 @@ A simple and clean weather application built with HTML, CSS, and JavaScript that
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Mitin726&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mitin726&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitin726&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mitin726&theme=dracula" alt="GitHub stats" /><br/>
+<img src="https://streak-stats.demolab.com/?user=Mitin726&theme=dracula&hide_border=false" alt="GitHub streak stats" /><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mitin726&theme=dracula" alt="Top languages" />
 </div>
 
 <div align="center">
