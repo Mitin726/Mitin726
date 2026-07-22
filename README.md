@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h1 align="center">Quiubo pues, I'm <strong>Mitin726</strong></h1>
+<h1 align="center">Quiubo pues, I'm <strong>Mitin726</strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">😎</h1>
 
 <!-- BANNER :) -->
 <p align="center">
@@ -13,18 +13,43 @@
 I am currently a student of **Systems Engineering** and **Multimedia Engineering**.<br>
 Passionate about software development, building real-world projects and currently focused in lerning AI.<br>
 A **Developer in Progress**, constantly learning and improving my technical skills.
-
-Some things about me:
-- I enjoy creating **full projects**, from backend to frontend.
-- I work with languages such as **Python, Java, JavaScript, SQL, HTML, CSS**.
-- I have worked on projects such as:
-  - **Whatsapp Bot for Finance**
-  - **Website for my Mother's entrepreneurship**
-  - **Julia Fractals Generator using Python**
-  - **weather-app Using OpenWeatherMap API key**
-- I am focused on growing professionally and learning something new every day.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Learning%20AI-dodgerblue" />
+  <img src="https://img.shields.io/badge/Language-English-dodgerblue" />
+  <img src="https://img.shields.io/badge/Language (main)-Spanish-green" />
+</p>
 
 ---
+
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Mitin726'
+	current_edu = "University of San Buenaventura, Cali"
+	hobbies = [
+				'Going to the movies',
+				'Swiming',
+				'Creating projects that help me in my day-to-day life',
+				'Chasing my Dreams...'
+			]
+	
+	def getCity():
+		return Cali_Colombia()
+	
+	def Ambitions():
+		LearnAI()
+		CreateMyOwnCompany()
+		BeHappy() # The Most Important ;)
+	
+ ```
+
+---
+## Programming Languages
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> 
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+
+--- 
 
 ## Projects
 
@@ -93,5 +118,17 @@ A simple and clean weather application built with HTML, CSS, and JavaScript that
 </p>
 
 ---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Mitin726&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mitin726&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitin726&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+	
+</a>
+</div>
 
 
