@@ -57,7 +57,7 @@ Here are some of my featured projects:
 <br>
 
 <!-- PROJECT 1 -->
-<h2>Finance Bot</h2>
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZibzN4cjRkaGVxc2luNTZtc2xsbWkycXpubjl3NjZueGFkYzk1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWJWLftZXHcZ926k1M/giphy.gif" width="35"><b> Finance Bot </b>
 
 <div align="center">
   <a href="https://github.com/Mitin726/bot-finanzas">
@@ -72,7 +72,8 @@ I always want to keep my finances up to date, but having to go home and enter ea
 ---
 
 <!-- PROJECT 2 -->
-<h2>Julia's Fractal Generator Algorithm</h2>
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQzYXZwY3VuZzlpNXB0M2tka3FsYmV0eGR0Z3hpMnZjamp2eWhsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwrI5XvNL3yk0rm/giphy.gif" width="35"><b> Julia's Fractal Generator Algorithm </b>
+
 
 <div align="center">
   <a href="https://github.com/Mitin726/Julia-s-Fractal-Generator-Algorithm">
@@ -89,7 +90,7 @@ The main goal of this project is to develop an algorithm capable of generating v
 ---
 
 <!-- PROJECT 3 -->
-<h2>Auténtico Website</h2>
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqbGdkZXg5Yjlnc2EyaWh1czNkNTFobHAzMTY5cHVlMzk2bnFvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y3wH0icDeRfaS8Of7l/giphy.gif" width="35"><b> Auténtico Website </b>
 
 <div align="center">
   <a href="https://github.com/Mitin726/autentico-web">
@@ -105,7 +106,7 @@ In addition to telling the story behind the project, the site lets you explore t
 ---
 
 <!-- PROJECT 4 -->
-<h2>Weather App</h2>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJpZXVoN2hma205OWxldnB2cHkwdDYxNnFwYmt1enQ2b3dhZ3Q3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/42uCipbG9P4ZaXoum8/giphy.gif" width="35"><b> Weather App </b>
 
 <div align="center">
   <a href="https://github.com/Mitin726/weather-app">
@@ -120,6 +121,9 @@ A simple and clean weather application built with HTML, CSS, and JavaScript that
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Mitin726&color=brightgreen" alt="watching_count" />
+ </p>
 <br>
 
 <div align="center">
@@ -131,4 +135,7 @@ A simple and clean weather application built with HTML, CSS, and JavaScript that
 </a>
 </div>
 
-
+<div align="center">
+<h1>Thanks For Watching :)</h1>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ3b2dteDdsZ2I1MHIydjQ3bmR6d2R1bXoyYXI1Y3ZlYnhvajY5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="500" style="center">
+</div>
