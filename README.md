@@ -29,7 +29,7 @@ A **Developer in Progress**, constantly learning and improving my technical skil
 	hobbies = [
 				'Going to the movies',
 				'Swiming',
-				'Ride my motorcycle B)'
+				'Ride my motorcycle B)',
 				'Creating projects that help me in my day-to-day life',
 				'Chasing my Dreams...'
 			]
