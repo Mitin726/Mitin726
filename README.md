@@ -35,7 +35,7 @@ A **Developer in Progress**, constantly learning and improving my technical skil
 			]
 	
 	def getCity():
-		return Cali_Colombia()
+		return "Cali, Colombia"
 	
 	def Ambitions():
 		LearnAI()
