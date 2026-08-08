@@ -14,7 +14,7 @@ I am currently a student of **Systems Engineering** and **Multimedia Engineering
 Passionate about software development, building real-world projects and currently focused in lerning AI.<br>
 A **Developer in Progress**, constantly learning and improving my technical skills.
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Learning%20AI-dodgerblue" />
+  <img src="https://img.shields.io/badge/Focus-Learning%20Python%20&%20AI-dodgerblue" />
   <img src="https://img.shields.io/badge/Language-English-dodgerblue" />
   <img src="https://img.shields.io/badge/Language (main)-Spanish-green" />
 </p>
