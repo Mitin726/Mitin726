@@ -45,9 +45,7 @@ A **Developer in Progress**, constantly learning and improving my technical skil
  ```
 
 ## Programming Languages and Technologies
-
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> 
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width='30'/> <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width='30'/> <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width='30'/> <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width='30'/>
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,django,mysql,git,java,nodejs,github,vscode&perline=13)](https://skillicons.dev)
 
 ## Projects
 
