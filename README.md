@@ -45,7 +45,7 @@ A **Developer in Progress**, constantly learning and improving my technical skil
  ```
 
 ## Programming Languages and Technologies
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,django,mysql,git,java,nodejs,github,vscode&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,java,html,css,js,django,mysql,nodejs,vscode&perline=13)](https://skillicons.dev)
 
 ## Projects
 
