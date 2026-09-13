@@ -86,11 +86,11 @@ The main goal of this project is to develop an algorithm capable of generating v
 ---
 
 <!-- PROJECT 3 -->
-## <img src="/assets/sinfilaslogo.png" width="35"><b> Weather App </b>
+## <img src="/assets/sinfilaslogo.png" width="35"><b> SinFilas Bot </b>
 
 <div align="center">
   <a href="https://github.com/Mitin726/sinfilas">
-    <img src="/assets/sinfilas.png" alt="Weather App" width="600">
+    <img src="/assets/sinfilas.png" alt="Sin Filas" width="600">
   </a>
 </div>
 
