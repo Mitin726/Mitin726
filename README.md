@@ -133,3 +133,6 @@ In addition to telling the story behind the project, the site lets you explore t
 <h1>Thanks For Watching :)</h1>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ3b2dteDdsZ2I1MHIydjQ3bmR6d2R1bXoyYXI1Y3ZlYnhvajY5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="500" style="center">
 </div>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
