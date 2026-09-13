@@ -124,7 +124,6 @@ In addition to telling the story behind the project, the site lets you explore t
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mitin726&theme=dracula" alt="GitHub stats" /><br/>
 <img src="https://streak-stats.demolab.com/?user=Mitin726&theme=dracula&hide_border=false" alt="GitHub streak stats" /><br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mitin726&theme=dracula" alt="Top languages" />
 </div>
