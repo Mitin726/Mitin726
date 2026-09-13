@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
 <!-- TITLE -->
 <h1 align="center">Quiubo pues, I'm <strong>Mitin </strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">😎</h1>
 
