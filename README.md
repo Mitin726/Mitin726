@@ -3,7 +3,7 @@
 
 <!-- BANNER :) -->
 <p align="center">
-  <img src="/assets/BannerGitHub.png" alt="Banner Mitin726" width="100%">
+  <img src="/assets/newBanner.png" alt="Banner Mitin726" width="100%">
 </p>
 
 ---
