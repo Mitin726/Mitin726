@@ -86,32 +86,32 @@ The main goal of this project is to develop an algorithm capable of generating v
 ---
 
 <!-- PROJECT 3 -->
+## <img src="/assets/sinfilaslogo.png" width="35"><b> Weather App </b>
+
+<div align="center">
+  <a href="https://github.com/Mitin726/sinfilas">
+    <img src="/assets/sinfilas.png" alt="Weather App" width="600">
+  </a>
+</div>
+
+<p>
+A bot to help people find out if their medications are available before they go to pick them up. (prototype)
+</p>
+
+---
+
+<!-- PROJECT 4 -->
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqbGdkZXg5Yjlnc2EyaWh1czNkNTFobHAzMTY5cHVlMzk2bnFvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y3wH0icDeRfaS8Of7l/giphy.gif" width="35"><b> Auténtico Website </b>
 
 <div align="center">
   <a href="https://github.com/Mitin726/autentico-web">
-    <img src="/assets/autentico.png" alt="Weather App" width="600">
+    <img src="/assets/autenticoo.png" alt="Weather App" width="600">
   </a>
 </div>
 
 <p>
 Auténtico is a pastry business founded in Calarcá, Quindío, by my mother, Luz, a professional pastry chef. The website showcases a brand focused on traditional desserts and healthier options, made with high-quality ingredients, dedication, and creativity to offer authentic flavors without compromising on well-being.
 In addition to telling the story behind the project, the site lets you explore the product catalog, view the product lines, and place orders directly via WhatsApp. It currently serves Armenia and Calarcá, with personalized service for orders and special celebrations.
-</p>
-
----
-
-<!-- PROJECT 4 -->
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJpZXVoN2hma205OWxldnB2cHkwdDYxNnFwYmt1enQ2b3dhZ3Q3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/42uCipbG9P4ZaXoum8/giphy.gif" width="35"><b> Weather App </b>
-
-<div align="center">
-  <a href="https://github.com/Mitin726/weather-app">
-    <img src="/assets/weather-app.png" alt="Weather App" width="600">
-  </a>
-</div>
-
-<p>
-A simple and clean weather application built with HTML, CSS, and JavaScript that lets you search for any city and get the current weather conditions, including temperature, humidity, wind speed, and a weather icon.
 </p>
 
 ---
