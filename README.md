@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h1 align="center">Quiubo pues, I'm <strong>Mitin726</strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">😎</h1>
+<h1 align="center">Quiubo pues, I'm <strong>Mitin726 </strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">😎</h1>
 
 <!-- BANNER :) -->
 <p align="center">
@@ -14,7 +14,7 @@ I am currently a student of **Systems Engineering** and **Multimedia Engineering
 Passionate about software development, building real-world projects and currently focused in lerning AI.<br>
 A **Developer in Progress**, constantly learning and improving my technical skills.
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Learning%20AI-dodgerblue" />
+  <img src="https://img.shields.io/badge/Focus-Learning%20Python%20&%20AI-dodgerblue" />
   <img src="https://img.shields.io/badge/Language-English-dodgerblue" />
   <img src="https://img.shields.io/badge/Language (main)-Spanish-green" />
 </p>
@@ -29,12 +29,13 @@ A **Developer in Progress**, constantly learning and improving my technical skil
 	hobbies = [
 				'Going to the movies',
 				'Swiming',
+				'Ride my motorcycle B)',
 				'Creating projects that help me in my day-to-day life',
 				'Chasing my Dreams...'
 			]
 	
 	def getCity():
-		return Cali_Colombia()
+		return "Cali, Colombia"
 	
 	def Ambitions():
 		LearnAI()
@@ -44,9 +45,7 @@ A **Developer in Progress**, constantly learning and improving my technical skil
  ```
 
 ## Programming Languages and Technologies
-
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> 
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width='30'/> <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width='30'/> <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width='30'/> <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width='30'/>
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,java,html,css,js,django,mysql,nodejs,vscode&perline=13)](https://skillicons.dev)
 
 ## Projects
 
