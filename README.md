@@ -47,7 +47,7 @@ A **Developer in Progress**, constantly learning and improving my technical skil
 <h2 align="center">Programming Languages and Technologies</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,java,html,css,js,django,mysql,nodejs,vscode&perline=4" alt="tech stack">
+  <img src="https://skillicons.dev/icons?i=python,git,github,java,html,css,js,django,mysql,vscode&perline=5" alt="tech stack">
 </div>
 
 ## Projects
