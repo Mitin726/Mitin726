@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:062E2B,50:0B4F47,100:163F3B&height=220&section=header&text=Quiubo%20pues,%20I%27m%20Mitin726&fontSize=48&animation=twinkling&fontColor=ffffff&desc=Systems%20Engineer%20%7C%20Python%20Developer%20😎&descSize=20&descAlignY=68" width="100%" />
 </p>
-<!-- TITLE -->
-<h1 align="center">Quiubo pues, I'm <strong>Mitin </strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">😎</h1>
-
 <!-- BANNER :) -->
 <p align="center">
   <img src="/assets/newBanner.png" alt="Banner Mitin726" width="100%">
