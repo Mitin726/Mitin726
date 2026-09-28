@@ -52,11 +52,11 @@ A **Developer in Progress**, constantly learning and improving my technical skil
 
 ## Projects
 
-Here are some of my featured projects:
+Here are some of my featured projects :D
 <br>
 
 <!-- PROJECT 1 -->
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZibzN4cjRkaGVxc2luNTZtc2xsbWkycXpubjl3NjZueGFkYzk1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWJWLftZXHcZ926k1M/giphy.gif" width="35"><b> Finance Bot </b>
+## <b> Finance Bot </b>
 
 <div align="center">
   <a href="https://github.com/Mitin726/bot-finanzas">
@@ -71,7 +71,7 @@ I always want to keep my finances up to date, but having to go home and enter ea
 ---
 
 <!-- PROJECT 2 -->
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQzYXZwY3VuZzlpNXB0M2tka3FsYmV0eGR0Z3hpMnZjamp2eWhsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwrI5XvNL3yk0rm/giphy.gif" width="35"><b> Julia's Fractal Generator Algorithm </b>
+## <b> Julia's Fractal Generator Algorithm </b>
 
 
 <div align="center">
@@ -89,7 +89,7 @@ The main goal of this project is to develop an algorithm capable of generating v
 ---
 
 <!-- PROJECT 3 -->
-## <img src="/assets/sinfilaslogo.png" width="35"><b> SinFilas Bot </b>
+## <b> SinFilas Bot </b>
 
 <div align="center">
   <a href="https://github.com/Mitin726/sinfilas">
@@ -104,7 +104,7 @@ A bot to help people find out if their medications are available before they go 
 ---
 
 <!-- PROJECT 4 -->
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqbGdkZXg5Yjlnc2EyaWh1czNkNTFobHAzMTY5cHVlMzk2bnFvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y3wH0icDeRfaS8Of7l/giphy.gif" width="35"><b> Auténtico Website </b>
+## <b> Auténtico Website </b>
 
 <div align="center">
   <a href="https://github.com/Mitin726/autentico-web">
