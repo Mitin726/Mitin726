@@ -55,22 +55,9 @@ A **Developer in Progress**, constantly learning and improving my technical skil
 Here are some of my featured projects :D
 <br>
 
-<!-- PROJECT 1 -->
-## <b> Finance Bot </b>
-
-<div align="center">
-  <a href="https://github.com/Mitin726/bot-finanzas">
-    <img src="/assets/finance-bot.png" alt="Finance Bot" width="600">
-  </a>
-</div>
-
-<p>
-I always want to keep my finances up to date, but having to go home and enter each transaction manually became tedious, and I often forgot to do it. That’s why I decided to create a personal bot that automatically logs expenses in Google Sheets based on WhatsApp messages written in natural language, and that also answers questions about past expenses.
-</p>
-
 ---
 
-<!-- PROJECT 2 -->
+<!-- PROJECT 1 -->
 ## <b> Julia's Fractal Generator Algorithm </b>
 
 
@@ -88,7 +75,7 @@ The main goal of this project is to develop an algorithm capable of generating v
 
 ---
 
-<!-- PROJECT 3 -->
+<!-- PROJECT 2 -->
 ## <b> SinFilas Bot </b>
 
 <div align="center">
