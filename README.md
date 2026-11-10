@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img src="assets/banner-light.svg" alt="Juan Martín Carvajal — Systems Engineering Student · AI Engineering & Backend" width="100%">
